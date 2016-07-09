@@ -29,7 +29,7 @@ Xcode plugin that simplifies adding #import-s.
 
 ### Advanced
 - fuzzy search => type `mvc` to find a `ModelViewController`
-- copy paste => **⌘ + C** the class name and then **⌘ + P** after opening Peckham
+- copy paste => **⌘ + Control** the class name and then **⌘ + P** after opening Peckham
 
 ### History
 
